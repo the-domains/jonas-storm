@@ -1,4 +1,3 @@
-layout_spectrum: 0.5252241338603199
 typography_spectrum: 0.8451286205090582
 color:
   brandStrength: 0.7174278083257377
@@ -6,9 +5,11 @@ color:
   saturation: 0.3576914365403354
   rhythmicContrast: 0.09239500132389367
   brandColors:
-    - '#000000'
-    - '#393939'
-    - '#878787'
-    - '#BBBBBB'
-    - '#705B15'
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+layout_spectrum: 0.5252241338603199
 name: Jonas Storm
+title: Welcome
